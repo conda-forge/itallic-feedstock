@@ -115,5 +115,5 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
-* [@gonsongo](https://github.com/gonsongo/)
+* [@getiria-onsongo](https://github.com/getiria-onsongo/)
 
